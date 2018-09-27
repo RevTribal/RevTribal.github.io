@@ -1,3 +1,2 @@
-# athityakumar.github.io
+## Official Page of RevTribal
 
-The profile homepage and blog repository of Athitya Kumar. For documentation, have a look at the blog post [here](https://athityakumar.github.io/blog/posts/Hello_World/).
